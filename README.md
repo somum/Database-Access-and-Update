@@ -1,4 +1,4 @@
 # Database-Access-and-Update
 
-Basicaly simplest way of implementing 
+Basically simplest way of implementing 
 > Database access and update with Netbeans
